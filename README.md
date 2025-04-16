@@ -23,7 +23,7 @@ To successfully install and run the EP Technical Toolkit, ensure your system mee
 ### Prerequisites
 - **Operating System**: Windows OS (compatible versions).
 - **.NET Framework**: Version 4.6.2.
-- **Oracle Data Access**: `Oracle.ManagedDataAccess.Client`
+- **Oracle Data Access**: `Oracle.ManagedDataAccess.21.7.0'
 
 ### Additional Requirements
 - Administrative privileges to install software.
