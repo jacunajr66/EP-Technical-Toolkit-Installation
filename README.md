@@ -1,6 +1,6 @@
 # EP-Technical-Toolkit-Installation
 
-This repository contains the installation files for the latest releases of the **BlueYonder Enterprise Planning (EP) Technical Toolkit**. The provided `.zip` files include an installer (`.msi`) and a `setup.exe` file to simplify the installation process.
+This repository contains the installation files for the latest releases of the **Blue Yonder Enterprise Planning (EP) Technical Toolkit**. The provided `.zip` files include an installer (`.msi`) and a `setup.exe` file to simplify the installation process.
 
 ---
 
